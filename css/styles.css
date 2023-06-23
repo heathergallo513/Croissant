@@ -1,8 +1,13 @@
 body {
-  background-color: purple;
+  background-color: f8e8a6;
 }
 
 h1 {
   text-align: center;
   color: white;
+}
+
+p {
+  text-align: center;
+  display: block;
 }
